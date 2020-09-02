@@ -1,4 +1,4 @@
-![asdf](./githubbanner.png)
+![asdf](https://github.com/SKIIDK/SKIIDK/blob/master/githubbanner.png)
 
 <!--
 **SKIIDK/SKIIDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
